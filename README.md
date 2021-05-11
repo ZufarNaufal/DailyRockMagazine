@@ -1,4 +1,4 @@
-# rock_sound
+# Daily Rock Magazine
 
 A new Flutter project.
 
