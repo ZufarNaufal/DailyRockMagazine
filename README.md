@@ -17,6 +17,9 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshot
  
-* <center><img src="onboardPage.jpg"></center>
-* <center><img src="SplashScreen.jpg"></center>
-* <center><img src="home.jpg"></center>  
+* Onboarding-Page
+<center><img src="onboardPage.jpg"></center>
+* Splash-Screen-Page
+<center><img src="SplashScreen.jpg"></center>
+* Home - Page 
+<center><img src="home.jpg"></center>  
