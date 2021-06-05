@@ -4,6 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
+<p align="center"><img src="https://www.eudeka.id/wp-content/uploads/2021/04/flutter-logo-sharing-1.png" width="200"></p>
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
